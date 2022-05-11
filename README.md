@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JessKLockhart. I am a PhD student at Carleton Univeristy
+- 👋 Hi, I’m Jessica Lockhart. I am a PhD student at Carleton Univeristy
 - 👀 I’m interested in agent based modelling, spatial ecology and meta-analysis
 - 📫 How to reach me: JessicaLockhart@cmail.carleton.ca
 
